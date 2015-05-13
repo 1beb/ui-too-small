@@ -1,0 +1,16 @@
+{
+  "name": "ui-too-small",
+  "title": "UI Too Small",
+  "description": "Increase font sizes for people working on high dpi displays on Linux",
+  "homepage": "notyet",
+  "author": "Brandon Bertelsen",
+  "license": "MIT",
+  "engines": {
+    "brackets": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/git/git.git"
+  },
+  "version": "0.0.1"
+}
