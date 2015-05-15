@@ -3,5 +3,5 @@ define(function (require, exports, module) {
 
     var ExtensionUtils = brackets.getModule("utils/ExtensionUtils");
 
-    ExtensionUtils.addEmbeddedStyleSheet("* { font-size: 22px; }");
+    ExtensionUtils.addEmbeddedStyleSheet("* { font-size: 22px !important; lineheight: 18px; }");
 });
